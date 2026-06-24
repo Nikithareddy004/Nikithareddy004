@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭Currently working on enhancing my skills in Software Development, Data Structures & Algorithms, and Artificial Intelligence.<br>👯 Open to collaborating on innovative software, web development, and  AI/ML projects. <br>🤝 Seeking opportunities to learn from experienced developers and contribute to impactful projects.<br>🌱Continuously learning emerging technologies, best coding practices, and industry-standard tools.<br>💬Open to professional collaborations on Python, SQL, Machine Learning and GitHub.<br>⚡Passionate about solving real-world problems through technology and building scalable software solutions.<br>
+# 💫 Hi👋, I'm Nikitha...
+🔭Currently working on enhancing my skills in Software Development, Data Structures & Algorithms, and Artificial Intelligence.
+👯 Open to collaborating on innovative software, web development, and  AI/ML projects. 
+🤝 Seeking opportunities to learn from experienced developers and contribute to impactful projects.<🌱Continuously learning emerging technologies, best coding practices, and industry-standard tools.<💬Open to professional collaborations on Python, SQL, Machine Learning and GitHub.
+⚡Passionate about solving real-world problems through technology and building scalable software solutions.<br>
 
 
 ## 🌐 Socials:
